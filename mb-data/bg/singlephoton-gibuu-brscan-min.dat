@@ -1,0 +1,14 @@
+# MiniBooNE coherent photon (\Delta -> \gamma) background
+# calculated using GiBUU with lowest radiative BRs
+#   E [MeV]  BG [events/MeV]
+       250    0.19135
+     337.5    0.29791
+       425    0.28539
+     512.5    0.08747
+     612.5    0.08577
+     737.5   0.034337
+       875  0.0085361
+      1025  0.0018838
+      1175 0.00027344
+      1375  4.991e-05
+      2250 1.0081e-05

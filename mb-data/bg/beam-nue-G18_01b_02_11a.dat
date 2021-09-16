@@ -1,0 +1,14 @@
+# MiniBooNE intrinsic nu-e background
+# calculated using generator G18_01b_02_11a
+#   E [MeV]  BG [events/MeV]
+       250    0.75568
+     337.5    0.99592
+       425     1.0955
+     512.5     1.0615
+     612.5    0.98336
+     737.5     1.0341
+       875    0.84559
+      1025    0.71926
+      1175    0.54063
+      1375    0.43062
+      2250   0.070157

@@ -1,0 +1,14 @@
+# MiniBooNE single photon background (data-driven approach)
+# calculated using generator G18_01b_02_11a
+#   E [MeV]  BG [events/MeV]
+       250    0.23402
+     337.5    0.36589
+       425    0.38752
+     512.5    0.18201
+     612.5   0.069956
+     737.5   0.021769
+       875  0.0036769
+      1025    0.00456
+      1175  0.0021575
+      1375  0.0013605
+      2250          0

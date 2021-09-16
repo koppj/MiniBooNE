@@ -1,0 +1,15 @@
+# MiniBooNE efficiencies computed by comparing 
+# simulated and measured single photon backgrounds.
+#    E [GeV] efficiency
+         0          0
+      0.25    0.11173
+    0.3375    0.10802
+     0.425    0.12166
+    0.5125   0.065658
+    0.6125    0.05192
+    0.7375   0.036519
+     0.875   0.026075
+     1.025   0.048694
+     1.175    0.07131
+     1.375   0.073077
+      2.25          0

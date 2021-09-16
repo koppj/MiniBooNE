@@ -1,0 +1,14 @@
+# MiniBooNE pi0 background (first-principles approach)
+# calculated using generator G18_01b_02_11a
+#   E [MeV]  BG [events/MeV]
+       250     2.2964
+     337.5    0.92911
+       425    0.56028
+     512.5    0.39248
+     612.5    0.31271
+     737.5    0.19261
+       875    0.19584
+      1025     0.1899
+      1175    0.11883
+      1375   0.055732
+      2250 9.1729e-07

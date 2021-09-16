@@ -1,0 +1,18 @@
+# cut on opening angle phi between photons in MiniBooNE
+# determined by comparing NUANCE simulation to data.
+# The binning is in E_nu_reco [MeV], using the same bins as
+# MiniBooNE's nu_e search, plus two overflow bins
+#   cos(phi)
+       inf
+   0.47885
+   0.70668
+   0.80482
+   0.85961
+   0.88784
+   0.92374
+   0.93889
+   0.95061
+   0.96257
+   0.97211
+   0.99997
+       inf

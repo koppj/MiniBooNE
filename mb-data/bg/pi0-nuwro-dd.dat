@@ -1,0 +1,14 @@
+# MiniBooNE pi0 background (data-driven approach)
+# calculated using generator nuwro
+#   E [MeV]  BG [events/MeV]
+       250      1.993
+     337.5     1.0664
+       425    0.58996
+     512.5    0.43303
+     612.5    0.38823
+     737.5    0.19314
+       875    0.23063
+      1025    0.18254
+      1175    0.11494
+      1375   0.053338
+      2250          0
